@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAlertFunctions", "AzureAlertFunctions\AzureAlertFunctions.csproj", "{5D349321-1228-46CF-A76F-A6C1097EB4B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAlertFunc", "AzureAlertFunc\AzureAlertFunc.csproj", "{3CA0AF48-103E-4050-A865-ED70A8E6F8DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5D349321-1228-46CF-A76F-A6C1097EB4B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5D349321-1228-46CF-A76F-A6C1097EB4B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5D349321-1228-46CF-A76F-A6C1097EB4B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5D349321-1228-46CF-A76F-A6C1097EB4B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CA0AF48-103E-4050-A865-ED70A8E6F8DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA0AF48-103E-4050-A865-ED70A8E6F8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA0AF48-103E-4050-A865-ED70A8E6F8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA0AF48-103E-4050-A865-ED70A8E6F8DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5AE5014F-0FBC-4F27-9150-C9EAD0ABA484}
+		SolutionGuid = {A742D0B3-5BFC-4421-BB38-7B87A768E951}
 	EndGlobalSection
 EndGlobal
